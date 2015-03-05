@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="clock_position_entries">
+        <item name="right">@string/right</item>
+        <item name="center">@string/center</item>
+        <item name="left">@string/left</item>
+        <item name="hide">@string/hide</item>
+    </string-array>
+    <string-array name="clock_position_values">
+        <item name="right">Right</item>
+        <item name="center">Center</item>
+        <item name="center">Left</item>
+        <item name="hide">Hide</item>
+    </string-array>
+    <string-array name="screen_off_effect_entries">
+        <item>@string/screen_off_effect_default</item>
+        <item>@string/screen_off_effect_crt</item>
+        <item>@string/screen_off_effect_fade</item>
+    </string-array>
+    <string-array name="screen_off_effect_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
